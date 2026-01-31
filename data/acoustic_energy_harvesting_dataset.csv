@@ -1,0 +1,20 @@
+Paper,Source,Approach,Sub_Approach,Power_Value,Power_Unit,Power_Type,Data_Comparability,SPL_dB,Frequency_Hz_Lower,Frequency_Hz_Upper,Notes
+MingYuan_2019_mdpi,mdpi,Helmholtz_Resonator,PVDF_cantilever,0.1,uW,Absolute_Power,Partially_Comparable,100,NA,NA,NA
+MingYuan_2019_mdpi,mdpi,Helmholtz_Resonator,NA,1.43,mW,Absolute_Power,Partially_Comparable,100,170,206,NA
+MingYuan_2019_mdpi,mdpi,Helmholtz_Resonator,NA,27.2,uW,Absolute_Power,Partially_Comparable,100,217,217,NA
+MingYuan_2019_mdpi,mdpi,Helmholtz_Resonator,PVDF_in_noise_barrier,0.38,uW,Absolute_Power,Partially_Comparable,100,NA,NA,NA
+MinuAPillai_2014_springer,springer,Helmholtz_Resonator,Electromechanical_HR,30,mW,Absolute_Power,Partially_Comparable,160,NA,NA,NA
+MinuAPillai_2014_springer,springer,Helmholtz_Resonator,Airflow_harvester_20m/s,42.2,uW,Absolute_Power,Partially_Comparable,NA,NA,NA,NA
+MinuAPillai_2014_springer,springer,Helmholtz_Resonator,Tunable_HR,3.49,uW,Absolute_Power,Partially_Comparable,NA,NA,NA,matched_frequencies
+MingYuan_2019_mdpi,mdpi,Quarter_Wavelength_Resonator,S-SSHI circuit,0.796,mW,Absolute_Power,Partially_Comparable,112,196,196,NA
+MingYuan_2019_mdpi,mdpi,Acoustic_Metamaterial,Defect_Structure,18,uW,Absolute_Power,Partially_Comparable,100,520,520,NA
+MingYuan_2019_mdpi,mdpi,Acoustic_Metamaterial,Helix_metamaterial,7.3,uW,Absolute_Power,Partially_Comparable,100,175,175,NA
+MingYuan_2019_mdpi,mdpi,Acoustic_Metamaterial,Piezoelectric_patch,200,uW,Absolute_Power,Partially_Comparable,114,155,155,NA
+MingYuan_2019_mdpi,mdpi,Acoustic_Metamaterial,MetaWall,2,mW,Absolute_Power,Partially_Comparable,NA,460,460,NA
+MingYuan_2019_mdpi,mdpi,Acoustic_Metamaterial,Broadband_metasurface,90,mW,Absolute_Power,Partially_Comparable,160,620,620,NA
+MinuAPillai_2014_springer,springer,Piezoelectric_Energy_Harvesting,NA,0.19,uW,Absolute_Power,Partially_Comparable,118,850,850,NA
+HassanElahi_2020_mdpi,mdpi,Piezoelectric_Energy_Harvesting,NA,33.133,dBuW,Log_Power,Not_Comparable,96,NA,NA,NA
+HongwenSun_2018_springer,springer,Piezoelectric_Energy_Harvesting,Raindrop_impact_single_unit,2.5,uW,Absolute_Power,Not_Comparable,NA,NA,NA,NA
+HassanElahi_2020_mdpi,mdpi,Triboelectric_Energy_Harvesting,TENG_from_vibrations,60.2,mW/m2,Power_Density,Not_Comparable,NA,NA,NA,NA
+MinuAPillai_2014_springer,springer,Thermoacoustic_Energy_Harvesting,NA,NA,%,Efficiency,Not_Comparable,NA,NA,NA," (1000 ohm load, tube length 0.5_5 cm) Reported efficiency range: 10_15%; no absolute power reported"
+Jagadeesh_2020_mdpi,mdpi,Electromagnetic_Conversion,NA,NA,mW,Absolute_Power,Partially_Comparable,NA,143,470,Harvested power reported as 1.5_1.96 mW across 143_470 Hz.

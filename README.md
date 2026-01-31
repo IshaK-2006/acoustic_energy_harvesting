@@ -41,24 +41,6 @@ Each data entry includes:
 
 ---
 
-## Repository Structure
-
-acoustic-energy-harvesting/
-│
-├── data/
-│ └── acoustic_energy_harvesting_literature.csv
-│
-├── analysis/
-│ └── AEH.ipynb
-│
-├── results/
-│ └── acoustic_energy_harvesting.pdf
-│
-├── README.md
-└── requirements.txt
-
----
-
 ## Methodology
 
 ### Data Curation
@@ -113,3 +95,4 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
